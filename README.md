@@ -1,10 +1,10 @@
-# Prosoccer: Stellar Integration via Soroban
+# Prosoccer: Ethereum Integration
 
 Prosoccer is the first multi-chain digital football platform that empowers soccer fans to own, trade, manage soccer teams and play in competitions.
 
 ## Features
 - **Digital asset ownership and transfer:** provide a multi-chain marketplace where user can buy digital assets (players, coaches and team) 
-- **Soroban Smart Contracts:** Employ Stellar's smart contract platform for secure, complex transactions.
+- **Ethereum Smart Contracts:** Employ Ethereum's smart contract platform for secure, complex transactions.
 - **AI-powered football and competition management:** Allows users to manage their digital football team and play in competition.
 
 ## Getting Started
